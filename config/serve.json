@@ -1,0 +1,29 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/spfx-serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://[tenant].sharepoint.com/_layouts/15/workbench.aspx",
+      "customActions": {
+        "e57675b7-027f-43f1-b29b-62e2f59d9e19": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    },
+    "vLibrasWidget": {
+      "pageUrl": "https://[tenant].sharepoint.com/_layouts/15/workbench.aspx",
+      "customActions": {
+        "e57675b7-027f-43f1-b29b-62e2f59d9e19": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    }
+  }
+}
