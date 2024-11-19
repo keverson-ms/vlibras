@@ -10,6 +10,7 @@ Short summary on functionality and used technologies.
 
 ![version](https://img.shields.io/badge/version-1.20.0-green.svg)
 
+https://learn.microsoft.com/pt-br/sharepoint/dev/spfx/extensions/get-started/build-a-hello-world-extension
 ## Applies to
 
 - [SharePoint Framework](https://aka.ms/spfx)
