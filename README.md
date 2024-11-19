@@ -4,7 +4,7 @@
 
 Short summary on functionality and used technologies.
 
-[![VLibras no Sharepoint](images/vlibras.png)]
+![VLibras no Sharepoint](images/vlibras.png)
 
 ## Used SharePoint Framework Version
 
